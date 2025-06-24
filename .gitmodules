@@ -1,0 +1,4 @@
+[submodule "linux-rpi"]
+	path = linux-rpi
+	url = git@github.com:ChuanyuXue/linux-rpi.git
+	branch = rpi-6.14
